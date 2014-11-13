@@ -29,7 +29,7 @@ Blog
 
 #### http://www.sizeofvoid.net/ by [孙振南](http://weibo.com/ed9er)
 
-- [goroutine背后的系统知识](goroutine背后的系统知识)
+- [goroutine背后的系统知识](http://www.sizeofvoid.net/goroutine-under-the-hood/)
 
 
 #### [Morsing's Blog](http://morsmachine.dk/index)
